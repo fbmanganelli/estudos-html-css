@@ -1,0 +1,23 @@
+DNS - Relação entre nome-numero do servidor
+Exemplo:
+	instagram.com -> DNS -> IP: 3.775.224.38
+
+Dominio: 
+Nome que identifica o site
+Pago anualmente
+Varios TLDs
+Exemplo: instagram.com
+
+Hospedagem: 
+Espaço para armazenar arquivos
+Pago mensalmente
+Espaço, memória, recursos
+
+URL:
+
+[www].[github[.com]][/gustavoguanabara]
+
+[www]: sub-domínio
+[github.com]: domínio
+[.com]: TLD
+[/gustavoguanabara]: caminho
